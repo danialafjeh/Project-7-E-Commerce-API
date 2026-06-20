@@ -1,7 +1,7 @@
 # About Project
 # 🛒 E-Commerce REST API
 
-A fully featured E-Commerce REST API built with Django REST Framework.
+A fully featured E-Commerce RESTful API built with Django REST Framework.
 
 This project provides a complete backend solution for an online shopping platform including user management, product catalog, shopping cart, checkout process, address management, and order tracking.
 
