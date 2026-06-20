@@ -334,7 +334,7 @@ PostgreSQL
 ```
 
 The project is designed around relational database principles and uses efficient model relationships for all business entities.
-
+Configure your PostgreSQL credentials inside your environment variables or settings.py file and then migrate.
 ---
 
 # 🎉 Main Features Summary
