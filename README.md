@@ -1,4 +1,4 @@
-# َAbout Project
+# About Project
 # 🛒 E-Commerce REST API
 
 A fully featured E-Commerce REST API built with Django REST Framework.
