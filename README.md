@@ -256,8 +256,7 @@ PageNumberPagination
 
 Available on:
 
-* Orders
-* Carts
+Any api endpoint that returns a full list of data
 
 ---
 
